@@ -4,7 +4,7 @@ This project extracts data from various streaming platforms (Netflix, Hulu, Amaz
 
 # 📑 Table of Contents
 
-++ Overview
+-  <pre> Overview  <pre>
 ++ Architecture
 ++ Features
 ++ Technologies Used
