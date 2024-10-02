@@ -4,10 +4,10 @@ This project extracts data from various streaming platforms (Netflix, Hulu, Amaz
 
 # 📑 Table of Contents
 
-+ <a>Overview</a>
-+ <a>Architecture</a> 
-+ <a>Features</a>
-+ <a>Technologies Used</a>
++ <a href="Overview"></a>
++ <a href="Architecture"></a> 
++ <a href="Features"></a>
++ <a href="Technologies Used"></a>
 
 # 📝 Overview
 
