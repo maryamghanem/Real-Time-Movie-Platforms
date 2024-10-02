@@ -4,8 +4,8 @@ This project extracts data from various streaming platforms (Netflix, Hulu, Amaz
 
 # 📑 Table of Contents
 
-<span style="text-decoration:underline; color:blue;">#1</span> -Overview
-+ <u> Architecture </u>
+<span style="text-decoration:underline; color:blue;">Overview</span>
+<span style="text-decoration:underline; color:blue;">Architecture</span>
 + <u> Features </u>
 + <u> Technologies Used </u>
 
